@@ -1,0 +1,6592 @@
+{"/home/giulio/Scrivania/bp/Bullfighting/wBbSb9Ubis4.mp4": {
+        "masks": [
+            [
+                "Calf",
+                "Bull"
+            ],
+            [
+                "Calf"
+            ],
+            [
+                "Calf",
+                "dog"
+            ],
+            [
+                "Calf"
+            ],
+            [
+                "Cowboy Hat",
+                "Calf"
+            ],
+            [
+                "Calf",
+                "Person",
+                "Shower_handle"
+            ],
+            [
+                "Calf"
+            ],
+            [
+                "Shower_handle"
+            ],
+            [
+                "Shower_handle"
+            ],
+            [
+                "traffic light",
+                "Calf"
+            ],
+            [
+                "Person",
+                "Water"
+            ]
+        ],
+        "activity": "Bullfighting"
+    },
+    "/home/giulio/Scrivania/bp/Calf roping/IKeV3kdX-_I.mp4": {
+        "masks": [
+            [
+                "Cowboy Hat",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Cowboy Hat",
+                "Person"
+            ]
+        ],
+        "activity": "Calf roping"
+    },
+    "/home/giulio/Scrivania/bp/Calf roping/gSkE0KCvves.mp4": {
+        "masks": [],
+        "activity": "Calf roping"
+    },
+    "/home/giulio/Scrivania/bp/Bathing dog/v_Vg4a8igc0.mp4": {
+        "masks": [
+            [
+                "Shower_handle"
+            ],
+            [
+                "Shower_handle",
+                "Shower_handle",
+                "dog"
+            ],
+            [
+                "Shower_handle",
+                "hair_drier"
+            ]
+        ],
+        "activity": "Bathing dog"
+    },
+    "/home/giulio/Scrivania/bp/Calf roping/GD9SfOn3irM.mp4": {
+        "masks": [
+            [
+                "horse"
+            ],
+            [
+                "dog",
+                "Lawn"
+            ],
+            [
+                "Lawn",
+                "bench",
+                "horse",
+                "dog"
+            ],
+            [
+                "dog",
+                "Person",
+                "horse",
+                "Lawn"
+            ],
+            [
+                "Lawn"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "dog",
+                "horse",
+                "backpack"
+            ],
+            [
+                "Lawn",
+                "horse",
+                "dog"
+            ]
+        ],
+        "activity": "Calf roping"
+    },
+    "/home/giulio/Scrivania/bp/Calf roping/-X7fBYN5fBc.mp4": {
+        "masks": [
+            [
+                "Cowboy Hat"
+            ],
+            [
+                "Cowboy Hat",
+                "horse",
+                "Person",
+                "suitcase",
+                "dog"
+            ]
+        ],
+        "activity": "Calf roping"
+    },
+    "/home/giulio/Scrivania/bp/Bullfighting/KylUHdDXuCg.mp4": {
+        "masks": [
+            [
+                "Calf"
+            ],
+            [
+                "Cowboy Hat"
+            ],
+            [
+                "Cowboy Hat"
+            ]
+        ],
+        "activity": "Bullfighting"
+    },
+    "/home/giulio/Scrivania/bp/Bathing dog/mB90PudOrnU.mp4": {
+        "masks": [
+            [
+                "Water",
+                "Shower_handle"
+            ]
+        ],
+        "activity": "Bathing dog"
+    },
+    "/home/giulio/Scrivania/bp/Bathing dog/zJNYqTVWqyY.mp4": {
+        "masks": [
+            [
+                "dog"
+            ],
+            [
+                "cat"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "cat",
+                "dog"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "dog"
+            ]
+        ],
+        "activity": "Bathing dog"
+    },
+    "/home/giulio/Scrivania/bp/Calf roping/ArGF2CfOxkY.mp4": {
+        "masks": [
+            [
+                "backpack"
+            ],
+            [
+                "Person",
+                "backpack"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "backpack"
+            ],
+            [
+                "horse",
+                "horse",
+                "Rope",
+                "backpack"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "dog"
+            ]
+        ],
+        "activity": "Calf roping"
+    },
+    "/home/giulio/Scrivania/bp/Bullfighting/GBFRHM7i-NQ.mp4": {
+        "masks": [
+            [
+                "horse",
+                "Person",
+                "dog"
+            ],
+            [
+                "Person"
+            ],
+            [
+                "Cowboy Hat",
+                "Calf"
+            ],
+            [
+                "Person",
+                "horse",
+                "Calf"
+            ],
+            [
+                "Calf",
+                "Calf",
+                "Person",
+                "Cowboy Hat"
+            ],
+            [
+                "Calf",
+                "Riding Hat",
+                "horse",
+                "Person"
+            ],
+            [
+                "Calf",
+                "cow",
+                "traffic light",
+                "Riding Hat",
+                "dog",
+                "Person"
+            ],
+            [
+                "bench",
+                "Lawn",
+                "Person"
+            ]
+        ],
+        "activity": "Bullfighting"
+    },
+    "/home/giulio/Scrivania/bp/Calf roping/9uZoTZsTwv0.mp4": {
+        "masks": [],
+        "activity": "Calf roping"
+    },
+    "/home/giulio/Scrivania/bp/Bullfighting/esQnfUcBbPE.mp4": {
+        "masks": [
+            [
+                "Person",
+                "Water"
+            ],
+            [
+                "sports ball",
+                "Calf"
+            ],
+            [
+                "Calf",
+                "Person",
+                "bench",
+                "Hand",
+                "dog"
+            ],
+            [
+                "Calf",
+                "Calf",
+                "bench",
+                "Polo stick"
+            ],
+            [
+                "Calf",
+                "Person",
+                "Water",
+                "Shower_handle"
+            ],
+            [
+                "Rope",
+                "Calf",
+                "bench",
+                "Bull"
+            ],
+            [
+                "Calf"
+            ],
+            [
+                "Rope",
+                "Person",
+                "horse",
+                "Calf",
+                "Lawn"
+            ]
+        ],
+        "activity": "Bullfighting"
+    },
+    "/home/giulio/Scrivania/bp/Bullfighting/fHEUdQY1cdc.mp4": {
+        "masks": [
+            [
+                "horse",
+                "horse",
+                "Person",
+                "bench"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Person",
+                "bench",
+                "Cowboy Hat"
+            ],
+            [
+                "backpack",
+                "Riding Hat",
+                "Person",
+                "Bull"
+            ],
+            [
+                "backpack",
+                "Cowboy Hat",
+                "couch",
+                "Calf"
+            ],
+            [
+                "Person",
+                "Cowboy Hat",
+                "backpack"
+            ],
+            [
+                "Person",
+                "Calf"
+            ],
+            [
+                "Person",
+                "backpack",
+                "horse",
+                "Polo stick"
+            ],
+            [
+                "Person",
+                "Polo stick"
+            ],
+            [
+                "Person",
+                "Person",
+                "backpack",
+                "Cowboy Hat",
+                "Polo stick"
+            ],
+            [
+                "Person",
+                "backpack",
+                "Polo stick"
+            ],
+            [
+                "Person",
+                "Person",
+                "Cowboy Hat",
+                "backpack",
+                "Hand",
+                "Calf"
+            ]
+        ],
+        "activity": "Bullfighting"
+    },
+    "/home/giulio/Scrivania/bp/Bathing dog/qVqlImNflY8.mp4": {
+        "masks": [
+            [
+                "Water"
+            ],
+            [
+                "dog",
+                "Water"
+            ],
+            [
+                "Shower_handle"
+            ],
+            [
+                "Water"
+            ],
+            [
+                "Water",
+                "Shower_handle"
+            ]
+        ],
+        "activity": "Bathing dog"
+    },
+    "/home/giulio/Scrivania/bp/Bathing dog/iAWXaWo82u4.mp4": {
+        "masks": [
+            [
+                "Lawn",
+                "Bull",
+                "Rope",
+                "Calf"
+            ],
+            [
+                "Bull",
+                "Lawn"
+            ],
+            [
+                "Bull",
+                "Bull"
+            ]
+        ],
+        "activity": "Bathing dog"
+    },
+    "/home/giulio/Scrivania/bp/Calf roping/U-ApHGUtLMA.mp4": {
+        "masks": [
+            [
+                "Person"
+            ],
+            [
+                "Rope",
+                "Calf",
+                "cow",
+                "Water"
+            ],
+            [
+                "Calf",
+                "Calf",
+                "Rope",
+                "Shower_handle"
+            ],
+            [
+                "Calf",
+                "Calf",
+                "Rope"
+            ],
+            [
+                "Calf"
+            ]
+        ],
+        "activity": "Calf roping"
+    },
+    "/home/giulio/Scrivania/bp/Bullfighting/9PFlQcBl_jU.mp4": {
+        "masks": [
+            [
+                "Person"
+            ],
+            [
+                "Water"
+            ],
+            [
+                "Cowboy Hat",
+                "Hand"
+            ],
+            [
+                "Calf"
+            ]
+        ],
+        "activity": "Bullfighting"
+    },
+    "/home/giulio/Scrivania/bp/Bullfighting/fHXgxSFDmJc.mp4": {
+        "masks": [
+            [
+                "Red fabric"
+            ]
+        ],
+        "activity": "Bullfighting"
+    },
+    "/home/giulio/Scrivania/bp/Bathing dog/tGuPkIKGIK4.mp4": {
+        "masks": [
+            [
+                "dog"
+            ],
+            [
+                "toothbrush",
+                "dog"
+            ],
+            [
+                "hair_drier"
+            ]
+        ],
+        "activity": "Bathing dog"
+    },
+    "/home/giulio/Scrivania/bp/Bullfighting/vpvhtd7CqUA.mp4": {
+        "masks": [
+            [
+                "Red fabric",
+                "Bull"
+            ],
+            [
+                "Spear"
+            ],
+            [
+                "Spear",
+                "Spear",
+                "Bull"
+            ],
+            [
+                "Spear",
+                "Red fabric",
+                "Hand",
+                "Bull"
+            ],
+            [
+                "Hand",
+                "scissor"
+            ],
+            [
+                "Shower_handle"
+            ],
+            [
+                "Calf",
+                "Spear"
+            ],
+            [
+                "Spear",
+                "Red fabric",
+                "Bull"
+            ],
+            [
+                "Bull",
+                "Red fabric",
+                "Cowboy Hat"
+            ],
+            [
+                "Calf",
+                "Red fabric"
+            ],
+            [
+                "Spear",
+                "Bull",
+                "Red fabric"
+            ],
+            [
+                "Person",
+                "backpack"
+            ]
+        ],
+        "activity": "Bullfighting"
+    },
+    "/home/giulio/Scrivania/bp/Bathing dog/q4Oy6EDTJiM.mp4": {
+        "masks": [
+            [
+                "toothbrush",
+                "Cowboy Hat",
+                "Water",
+                "Shower_handle"
+            ],
+            [
+                "Cowboy Hat",
+                "toothbrush",
+                "Water"
+            ]
+        ],
+        "activity": "Bathing dog"
+    },
+    "/home/giulio/Scrivania/bp/Calf roping/S9KUHyvFuGc.mp4": {
+        "masks": [
+            [
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "suitcase"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "backpack"
+            ]
+        ],
+        "activity": "Calf roping"
+    },
+    "/home/giulio/Scrivania/bp/Calf roping/5BYayNkmlBo.mp4": {
+        "masks": [
+            [
+                "horse"
+            ],
+            [
+                "horse",
+                "dog"
+            ],
+            [
+                "Person",
+                "Cowboy Hat",
+                "Riding Hat"
+            ]
+        ],
+        "activity": "Calf roping"
+    },
+    "/home/giulio/Scrivania/bp/Calf roping/_fwExctFJpg.mp4": {
+        "masks": [
+            [
+                "horse",
+                "Horse saddle",
+                "Cowboy Hat"
+            ],
+            [
+                "horse",
+                "horse",
+                "Cowboy Hat",
+                "Rope",
+                "Water"
+            ],
+            [
+                "horse",
+                "Cowboy Hat",
+                "bench",
+                "dog"
+            ],
+            [
+                "horse",
+                "horse",
+                "Cowboy Hat",
+                "cow",
+                "Calf",
+                "bench",
+                "Person"
+            ],
+            [
+                "cow",
+                "cow",
+                "horse",
+                "Cowboy Hat",
+                "bench",
+                "Horse bridle",
+                "Person"
+            ]
+        ],
+        "activity": "Calf roping"
+    },
+    "/home/giulio/Scrivania/bp/Bullfighting/7cpX1j9dwjA.mp4": {
+        "masks": [
+            [
+                "dog",
+                "Red fabric",
+                "Cowboy Hat"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "horse",
+                "Red fabric",
+                "Person"
+            ],
+            [
+                "Red fabric"
+            ],
+            [
+                "Red fabric",
+                "backpack",
+                "Person"
+            ],
+            [
+                "Calf",
+                "Red fabric",
+                "Cowboy Hat"
+            ]
+        ],
+        "activity": "Bullfighting"
+    },
+    "/home/giulio/Scrivania/bp/Bathing dog/Cdmd9VB8tJI.mp4": {
+        "masks": [
+            [
+                "Lawn",
+                "dog",
+                "Calf"
+            ],
+            [
+                "Hand",
+                "Water",
+                "Calf"
+            ],
+            [
+                "Hand",
+                "Lawn",
+                "Brush"
+            ]
+        ],
+        "activity": "Bathing dog"
+    },
+    "/home/giulio/Scrivania/bp/Bathing dog/4rmo35vpG00.mp4": {
+        "masks": [
+            [
+                "Person"
+            ],
+            [
+                "horseshoe"
+            ],
+            [
+                "Person",
+                "Water",
+                "Shower_handle"
+            ]
+        ],
+        "activity": "Bathing dog"
+    },
+    "/home/giulio/Scrivania/bp/Bullfighting/BFxxrjqgF0w.mp4": {
+        "masks": [
+            [
+                "suitcase",
+                "couch",
+                "Shaver"
+            ],
+            [
+                "Person",
+                "couch"
+            ],
+            [
+                "Person",
+                "Person",
+                "Red fabric",
+                "frisbee"
+            ],
+            [
+                "Person",
+                "Calf"
+            ],
+            [
+                "Red fabric",
+                "Bull"
+            ],
+            [
+                "Person",
+                "Bull"
+            ]
+        ],
+        "activity": "Bullfighting"
+    },
+    "/home/giulio/Scrivania/bp/Calf roping/xKPF_SpZ1gQ.mp4": {
+        "masks": [
+            [
+                "Person",
+                "horse",
+                "Rope"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Person",
+                "dog",
+                "Cowboy Hat"
+            ]
+        ],
+        "activity": "Calf roping"
+    },
+    "/home/giulio/Scrivania/bp/Bullfighting/0_PdI-5l62o.mp4": {
+        "masks": [
+            [
+                "Spear"
+            ],
+            [
+                "Spear",
+                "Person",
+                "Water"
+            ],
+            [
+                "Bull",
+                "Bull",
+                "Spear",
+                "Cowboy Hat",
+                "Horse bridle"
+            ],
+            [
+                "Spear",
+                "Bull"
+            ],
+            [
+                "horse",
+                "Spear",
+                "Cowboy Hat",
+                "Horse saddle",
+                "Camel",
+                "Bull"
+            ]
+        ],
+        "activity": "Bullfighting"
+    },
+    "/home/giulio/Scrivania/bp/Calf roping/yN3e-giBxns.mp4": {
+        "masks": [
+            [
+                "horse",
+                "Person",
+                "dog",
+                "Water"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Person"
+            ]
+        ],
+        "activity": "Calf roping"
+    },
+    "/home/giulio/Scrivania/bp/Bathing dog/J7LhH4IKvnM.mp4": {
+        "masks": [
+            [
+                "Person",
+                "suitcase",
+                "Polo stick",
+                "dog"
+            ],
+            [
+                "Person",
+                "suitcase",
+                "dog"
+            ],
+            [
+                "suitcase",
+                "dog",
+                "Polo stick"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "Person",
+                "Polo stick"
+            ]
+        ],
+        "activity": "Bathing dog"
+    },
+    "/home/giulio/Scrivania/bp/Calf roping/_hdjRMpleWs.mp4": {
+        "masks": [
+            [
+                "Person",
+                "horse"
+            ],
+            [
+                "Person",
+                "Person",
+                "horse",
+                "horse",
+                "Cowboy Hat",
+                "Horse bridle"
+            ],
+            [
+                "horse",
+                "Cowboy Hat",
+                "Person",
+                "Calf"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Horse bridle"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Horse bridle",
+                "Horse saddle",
+                "Horse saddle",
+                "Cowboy Hat",
+                "Cowboy Hat"
+            ]
+        ],
+        "activity": "Calf roping"
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/IrO7Fgr102M.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "Calf"
+            ],
+            [
+                "sports ball"
+            ],
+            [
+                "Person",
+                "Cowboy Hat"
+            ],
+            [
+                "horse",
+                "backpack",
+                "Person",
+                "bench",
+                "Calf"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/rKtktLDSOpA.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "Lawn"
+            ],
+            [
+                "sports ball",
+                "Lawn"
+            ],
+            [
+                "sports ball",
+                "sports ball",
+                "horse"
+            ],
+            [
+                "Riding Hat"
+            ],
+            [
+                "Cowboy Hat",
+                "Riding Hat",
+                "backpack",
+                "Polo stick"
+            ],
+            [
+                "Cowboy Hat",
+                "horse",
+                "Person",
+                "Calf"
+            ],
+            [
+                "horse",
+                "Riding Hat",
+                "Lawn"
+            ],
+            [
+                "Person",
+                "Polo stick",
+                "horse",
+                "Cowboy Hat",
+                "Riding Hat"
+            ],
+            [
+                "horse",
+                "Person"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Grooming dog/gCku1WVr608.mp4": {
+        "activity": "Grooming dog",
+        "masks": [
+            [
+                "Brush",
+                "Shower_handle"
+            ],
+            [
+                "dog",
+                "Person",
+                "Hand"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "Hand",
+                "cat",
+                "Dog Leash"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "Hand",
+                "Calf",
+                "Dog Leash"
+            ],
+            [
+                "dog",
+                "Calf",
+                "Person",
+                "scissor"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Grooming dog/Z90-HZ_geSI.mp4": {
+        "activity": "Grooming dog",
+        "masks": [
+            [
+                "dog",
+                "dog",
+                "Person",
+                "suitcase",
+                
+                "Dog Leash"
+            ],
+            [
+                "dog",
+                "Brush"
+            ],
+            [
+                "dog",
+                "dog",
+                "hair_drier"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "dog"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/0JgcRWHCi4c.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "couch",
+                "cat"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/KAbo60mowhw.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "Lawn",
+                "Lawn",
+                "frisbee"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog"
+            ],
+            [
+                "dog",
+                "Lawn"
+            ],
+            [
+                "Person",
+                "dog",
+                "frisbee",
+                "Riding Hat"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "Person",
+                "Calf",
+                "Lawn",
+                "bench"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person",
+                "Person",
+                "frisbee",
+                "Lawn",
+                "Dog Leash"
+            ],
+            [
+                "Person",
+                "dog",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "Lawn",
+                "Cowboy Hat"
+            ],
+            [
+                "Person",
+                "dog",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "Lawn",
+                "bench",
+                "Person"
+            ],
+            [
+                "dog",
+                "Person",
+                "Lawn",
+                "Cowboy Hat"
+            ],
+            [
+                "Person"
+            ],
+            [
+                "dog",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "Bull"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/SXwCedd4MKg.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "dog",
+                "dog",
+                "Person"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog"
+            ],
+            [
+                "dog",
+                "Person",
+                "frisbee"
+            ],
+            [
+                "dog",
+                "Person",
+                "Riding Hat",
+                "Cowboy Hat",
+                "frisbee"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person",
+                "Cowboy Hat"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person",
+                "Lawn",
+                "frisbee"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person"
+            ],
+            [
+                "dog",
+                "dog",
+                "bench"
+            ],
+            [
+                "dog",
+                "dog",
+                "frisbee"
+            ],
+            [
+                "dog",
+                "dog",
+                "frisbee"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/8FSKFy1tPQc.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "Lawn",
+                "Lawn"
+            ],
+            [
+                "Person",
+                "Polo stick"
+            ],
+            [
+                "Horse bridle",
+                "Polo stick"
+            ],
+            [
+                "Horse bridle",
+                "Polo stick"
+            ],
+            [
+                "Polo stick",
+                "Camel"
+            ],
+            [
+                "Horse saddle",
+                "Polo stick",
+                "horse",
+                "Camel",
+                "Horse bridle"
+            ],
+            [
+                "Polo stick",
+                "horse",
+                "Horse bridle"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/lMbDEY-CVwE.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "Person",
+                "Person",
+                "frisbee"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "horse"
+            ],
+            [
+                "Person",
+                "Person",
+                "backpack",
+                "Calf",
+                "dog"
+            ],
+            [
+                "Person",
+                "Person",
+                "Riding Hat",
+                "backpack"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "frisbee"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "backpack"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog"
+            ],
+            [
+                "Person",
+                "backpack"
+            ],
+            [
+                "Person",
+                "frisbee",
+                "dog"
+            ],
+            [
+                "Person",
+                "dog",
+                "cat"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Grooming dog/Da9uVKDLwVY.mp4": {
+        "activity": "Grooming dog",
+        "masks": [
+            [
+                "hair_drier",
+                "dog"
+            ],
+            [
+                "hair_drier",
+                "hair_drier",
+                "dog",
+                "Dog Leash"
+            ],
+            [
+                "hair_drier",
+                "hair_drier",
+                "Dog Leash",
+                "Calf",
+                "Hand",
+                "horse",
+                "dog"
+            ],
+            [
+                "hair_drier",
+                "hair_drier",
+                "dog",
+                "Water",
+                "Calf"
+            ],
+            [
+                "hair_drier",
+                "hair_drier",
+                "dog",
+                "Shower_handle"
+            ],
+            [
+                "hair_drier",
+                "hair_drier",
+                "dog",
+                "Polo stick"
+            ],
+            [
+                "hair_drier",
+                "hair_drier",
+                "Dog Leash"
+            ],
+            [
+                "hair_drier",
+                "hair_drier",
+                "Dog Leash",
+                "dog"
+            ],
+            [
+                "hair_drier",
+                "hair_drier",
+                "Dog Leash"
+            ],
+            [
+                "hair_drier",
+                "hair_drier",
+                "dog"
+            ],
+            [
+                "hair_drier",
+                "hair_drier",
+                "Hand"
+            ],
+            [
+                "hair_drier",
+                "hair_drier",
+                "dog",
+                "Hand",
+                "Cowboy Hat"
+            ],
+            [
+                "hair_drier",
+                "hair_drier",
+                "Person",
+                "dog"
+            ],
+            [
+                "dog",
+                "hair_drier"
+            ],
+            [
+                "hair_drier",
+                "dog"
+            ],
+            [
+                "hair_drier"
+            ],
+            [
+                "Hand",
+                "scissor",
+                "hair_drier",
+                "Shower_handle",
+                "Polo stick"
+            ],
+            [
+                "hair_drier",
+                "scissor",
+                "cat"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/E-bv464MTsQ.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Polo stick"
+            ],
+            [
+                "horse",
+                "horse",
+                "Riding Hat",
+                "Horse bridle",
+                "Calf",
+                "Polo stick",
+                "Camel"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/JGStyHrlN2U.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Calf",
+                "backpack"
+            ],
+            [
+                "horse",
+                "horse",
+                "dog",
+                "Person",
+                "Horse bridle",
+                "Horse saddle"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/IQvSj-3BGPo.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "Person",
+                "Person",
+                "frisbee",
+                "dog",
+                "Water"
+            ],
+            [
+                "dog",
+                "Person"
+            ],
+            [
+                "Person",
+                "dog",
+                "frisbee"
+            ],
+            [
+                "frisbee",
+                "frisbee",
+                "dog",
+                "Person"
+            ],
+            [
+                "frisbee",
+                "frisbee",
+                "dog",
+                "Person"
+            ],
+            [
+                "frisbee",
+                "Person",
+                "dog",
+                "horse",
+                "Cowboy Hat"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "frisbee"
+            ],
+            [
+                "Person",
+                "dog",
+                "frisbee"
+            ],
+            [
+                "dog",
+                "frisbee"
+            ],
+            [
+                "Person",
+                "dog",
+                "Cowboy Hat",
+                "Polo stick"
+            ],
+            [
+                "dog",
+                "Person",
+                "backpack"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "dog",
+                "Person",
+                "Water"
+            ],
+            [
+                "dog",
+                "horse",
+                "Hand"
+            ],
+            [
+                "backpack",
+                "Person",
+                "dog",
+                "Riding Hat",
+                "Calf"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/6nMQRUhOcwM.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "dog",
+                "Lawn"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "dog",
+                "Person",
+                "frisbee"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "dog",
+                "Person",
+                "Dog Leash"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "dog",
+                "frisbee"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Walking the dog/Lo848n58uoM.mp4": {
+        "activity": "Walking the dog",
+        "masks": [
+            [
+                "dog"
+            ],
+            [
+                "Person",
+                "dog",
+                "Dog Leash"
+            ],
+            [
+                "dog",
+                "dog",
+                "Rope",
+                "backpack",
+                "Person",
+                "Dog Leash"
+            ],
+            [
+                "dog",
+                "Person"
+            ],
+            [
+                "Calf",
+                "Person",
+                "Water"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person",
+                "Water"
+            ],
+            [
+                "Person",
+                "dog",
+                "hair_drier"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog"
+            ],
+            [
+                "dog",
+                "dog",
+                "Dog Leash"
+            ],
+            [
+                "dog",
+                "cat"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Grooming dog/J6T9pokWX1E.mp4": {
+        "activity": "Grooming dog",
+        "masks": [
+            [
+                "dog",
+                "backpack"
+            ],
+            [
+                "dog",
+                "Person",
+                "Shower_handle"
+            ],
+            [
+                "hair_drier",
+                "cat"
+            ],
+            [
+                
+                "sports ball",
+                "backpack"
+            ],
+            [
+                "dog"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Walking the dog/CuZpm0Il6YM.mp4": {
+        "activity": "Walking the dog",
+        "masks": [
+            [
+                "dog"
+            ],
+            [
+                "dog"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Walking the dog/aUbSDHBZNEQ.mp4": {
+        "activity": "Walking the dog",
+        "masks": [
+            [
+                "dog",
+                "Calf",
+                "Bull"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/2CfCDcCuOO4.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "Person"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "Person",
+                "Person",
+                "dog",
+                "traffic light"
+            ],
+            [
+                "Person",
+                "Person",
+                "Lawn",
+                "traffic light",
+                "horse",
+                "Red fabric",
+                "dog"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "Lawn",
+                "Lawn",
+                "backpack",
+                "traffic light"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "traffic light",
+                "traffic light",
+                "Lawn",
+                "backpack",
+                "sports ball"
+            ],
+            [
+                "Person",
+                "Person",
+                "traffic light",
+                "traffic light",
+                "dog",
+                "dog",
+                "backpack"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Walking the dog/jEppv00aBBc.mp4": {
+        "activity": "Walking the dog",
+        "masks": [
+            [
+                "scissor",
+                "Dog Leash",
+                "backpack"
+            ],
+            [
+                "Person",
+                "cow",
+                "backpack",
+                "dog",
+                "Dog Leash"
+            ],
+            [
+                "dog",
+                "Person",
+                "Water",
+                "Spear",
+                "Calf"
+            ],
+            [
+                "Calf",
+                "Calf",
+                "dog",
+                "Water",
+                "Cowboy Hat"
+            ],
+            [
+                "dog",
+                "Cowboy Hat",
+                "hair_drier",
+                "Red fabric",
+                "Calf"
+            ],
+            [
+                "Calf",
+                "Spear",
+                "Dog Leash",
+                "dog",
+                "backpack",
+                "Cowboy Hat"
+            ],
+            [
+                "Calf",
+                "Calf",
+                "dog",
+                "Cowboy Hat",
+                "Red fabric"
+            ],
+            [
+                "Red fabric",
+                "Cowboy Hat",
+                "Dog Leash",
+                "dog"
+            ],
+            [
+                "Person",
+                "Person",
+                "Calf",
+                "backpack",
+                "Lawn",
+                "Red fabric",
+                "Cowboy Hat"
+            ],
+            [
+                "dog",
+                "Calf"
+            ],
+            [
+                "Calf",
+                "Red fabric",
+                "Person",
+                "Dog Leash",
+                "Cowboy Hat",
+                "hair_drier"
+            ],
+            [
+                "Person",
+                "backpack",
+                "Polo stick",
+                "dog",
+                "Calf"
+            ],
+            [
+                "Cowboy Hat",
+                "Person",
+                "Calf"
+            ],
+            [
+                "Person",
+                "Calf",
+                "backpack"
+            ],
+            [
+                "Red fabric",
+                "Calf"
+            ],
+            [
+                "bench",
+                "Cowboy Hat"
+            ],
+            [
+                "dog",
+                "Cowboy Hat"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/TdqEtrrPX_Q.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "frisbee",
+                "Red fabric",
+                "Person"
+            ],
+            [
+                "frisbee",
+                "frisbee",
+                "dog",
+                "bench",
+                "Red fabric",
+                "Person"
+            ],
+            [
+                "frisbee",
+                "frisbee",
+                "Person",
+                "dog",
+                "Calf",
+                "Cowboy Hat",
+                "bench"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/LgUCZHYBBEc.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "horse",
+                "Polo stick"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Person",
+                "Horse bridle",
+                "traffic light"
+            ],
+            [
+                "Person",
+                "Person",
+                "horse",
+                "horse",
+                "traffic light",
+                "Lawn"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Person",
+                "traffic light",
+                "Horse bridle",
+                "Lawn"
+            ],
+            [
+                "Person",
+                "Person",
+                "traffic light",
+                "traffic light",
+                "horse"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Walking the dog/H7k8ATbTjzs.mp4": {
+        "activity": "Walking the dog",
+        "masks": [
+            [
+                "dog",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "dog",
+                "Lawn",
+                "Lawn",
+                "Dog Leash"
+            ],
+            [
+                "couch"
+            ],
+            [
+                "dog",
+                "Person",
+                "Hand"
+            ],
+            [
+                "Person",
+                "Person",
+                "bench",
+                "couch"
+            ],
+            [
+                "Person",
+                "Person",
+                "Calf",
+                "Dog Leash",
+                "couch",
+                "Hand",
+                "dog"
+            ],
+            [
+                "dog",
+                "dog",
+                "Lawn",
+                "Lawn",
+                "Person",
+                "Dog Leash",
+                "Polo stick",
+                "car"
+            ],
+            [
+                "dog",
+                "dog",
+                "Lawn",
+                "Lawn",
+                "Person"
+            ],
+            [
+                "dog",
+                "dog",
+                "Lawn",
+                "Dog Leash",
+                "Calf"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Grooming dog/RAaRFD5M8h4.mp4": {
+        "activity": "Grooming dog",
+        "masks": [
+            [
+                "dog"
+            ],
+            [
+                "hair_drier",
+                "Shower_handle"
+            ],
+            [
+                "scissor"
+            ],
+            [
+                "Person",
+                "Shower_handle"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Grooming dog/l2drIA62T8w.mp4": {
+        "activity": "Grooming dog",
+        "masks": [
+            [
+                "dog"
+            ],
+            [
+                "dog",
+                "dog"
+            ],
+            [
+                "dog",
+                "dog"
+            ],
+            [
+                "dog",
+                "dog"
+            ],
+            [
+                "dog",
+                "dog"
+            ],
+            [
+                "dog",
+                "dog"
+            ]
+        ]
+    },"/home/giuseppe/Desktop/Vision/Todo/Camel ride/TlDkQ8SNG64.mp4": {
+        "activity": "Camel ride",
+        "masks": [
+            [
+                "Rope",
+                "Person",
+                "Camel"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Camel ride/yST1TsQ6mgY.mp4": {
+        "activity": "Camel ride",
+        "masks": [
+            [
+                "Camel"
+            ],
+            [
+                "Person",
+                "Horse bridle",
+                "Camel",
+                "Cowboy Hat"
+            ],
+            [
+                "Camel",
+                "Bull",
+                "Calf"
+            ],
+            [
+                "Rope",
+                "horse"
+            ],
+            [
+                "horse",
+                "Camel",
+                "Person"
+            ],
+            [
+                "horse",
+                "Camel",
+                "Person",
+                "cat"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle"
+            ],
+            [
+                "horse",
+                "horse",
+                "Riding Hat"
+            ],
+            [
+                "horse",
+                "horse",
+                "Calf",
+                "Camel"
+            ],
+            [
+                "Camel",
+                "Camel",
+                "Person",
+                "Calf",
+                "Rope",
+                "bench"
+            ],
+            [
+                "dog",
+                "Cowboy Hat",
+                "Calf",
+                "Person"
+            ],
+            [
+                "Camel",
+                "Camel",
+                "Cowboy Hat",
+                "Hand",
+                "Person"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Camel ride/4bUxtqX_oxM.mp4": {
+        "activity": "Camel ride",
+        "masks": [
+            [
+                "Person",
+                "horse",
+                "backpack",
+                "Camel"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Walking the dog/rLH89pN9I84.mp4": {
+        "activity": "Walking the dog",
+        "masks": [
+            [
+                "dog",
+                "Dog Leash",
+                "Calf"
+            ],
+            [
+                "dog",
+                "Dog Leash",
+                "sports ball",
+                "hair_drier",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "Rope",
+                "Dog Leash",
+                "sports ball",
+                "Person"
+            ],
+            [
+                "dog",
+                "scissor"
+            ],
+            [
+                "dog",
+                "dog",
+                "Dog Leash"
+            ],
+            [
+                "dog",
+                "dog",
+                "sports ball",
+                "Lawn",
+                "Dog Leash"
+            ],
+            [
+                "dog",
+                "dog",
+                "Rope",
+                "Bull",
+                "Dog Leash"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "dog",
+                "horse",
+                "Lawn",
+                "Dog Leash"
+            ],
+            [
+                "dog",
+                "dog",
+                "Dog Leash",
+                "Hand"
+            ],
+            [
+                "dog",
+                "Person",
+                "Dog Leash"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person",
+                
+                "couch"
+            ],
+            [
+                "dog",
+                "Dog Leash",
+                "suitcase",
+                "Hand"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/JyjONoyBr4Q.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "Lawn",
+                "Lawn",
+                "Person",
+                "dog"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "dog",
+                "Person",
+                "Person",
+                "frisbee",
+                "horse"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "bench",
+                "frisbee"
+            ],
+            [
+                "dog",
+                "dog",
+                "Lawn",
+                "Person"
+            ],
+            [
+                "frisbee",
+                "frisbee",
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "Lawn",
+                "cow"
+            ],
+            [
+                "frisbee",
+                "frisbee",
+                "dog",
+                "Person",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "dog",
+                "frisbee",
+                "frisbee",
+                "Person",
+                "horse",
+                "Lawn"
+            ],
+            [
+                "frisbee",
+                "frisbee",
+                "dog",
+                "Person",
+                "Lawn"
+            ],
+            [
+                "frisbee",
+                "frisbee",
+                "dog",
+                "dog",
+                "Polo stick",
+                "Lawn"
+            ],
+            [
+                "frisbee",
+                "frisbee",
+                "Lawn",
+                "Lawn",
+                "dog",
+                "Person",
+                "bench"
+            ],
+            [
+                "frisbee",
+                "frisbee",
+                "Lawn",
+                "Lawn",
+                "Person",
+                "Person",
+                "dog"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "Person",
+                "Person",
+                "frisbee",
+                "frisbee",
+                "dog",
+                "bench"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/8Ny9NjNpQQA.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "Person"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/Mg3_BN9t9JY.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "Person"
+            ],
+            [
+                "Person",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Horse bridle",
+                "Calf",
+                "Polo stick"
+            ],
+            [
+                "horse",
+                "Person",
+                "backpack"
+            ],
+            [
+                "Polo stick",
+                "horse",
+                "Person",
+                "Lawn"
+            ],
+            [
+                "horse",
+                "horse",
+                "Polo stick",
+                "Polo stick",
+                "Person",
+                "Riding Hat"
+            ],
+            [
+                "horse",
+                "horse",
+                "Polo stick",
+                "Person",
+                "Calf",
+                "Lawn"
+            ],
+            [
+                "horse",
+                "horse",
+                "Cowboy Hat",
+                "Person",
+                "Camel",
+                "Polo stick"
+            ],
+            [
+                "Person",
+                "Person",
+                "Cowboy Hat",
+                "Calf",
+                "Lawn",
+                "Polo stick"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/XCejO7RyWdA.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "Person",
+                "Lawn"
+            ],
+            [
+                "Lawn",
+                "frisbee",
+                "Person"
+            ],
+            [
+                "Lawn",
+                "Person",
+                "Red fabric",
+                "traffic light"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/PUJYZEq8H64.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "Riding Hat",
+                "Polo stick",
+                "horse",
+                "Person",
+                "Camel"
+            ],
+            [
+                "Riding Hat",
+                "Riding Hat",
+                "Polo stick",
+                "Polo stick",
+                "Horse saddle"
+            ],
+            [
+                "Polo stick",
+                "Polo stick",
+                "Riding Hat",
+                "backpack",
+                "Calf",
+                "Person"
+            ],
+            [
+                "Calf",
+                "Polo stick",
+                "Camel",
+                "Lawn"
+            ],
+            [
+                "Polo stick",
+                "Polo stick",
+                "Lawn",
+                "horse"
+            ],
+            [
+                "Person",
+                "Polo stick",
+                "horse"
+            ],
+            [
+                "Polo stick",
+                "Shower_handle"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/9njq_aC4AS4.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "dog",
+                "Lawn"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "sports ball",
+                "frisbee"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "dog",
+                "bench",
+                "frisbee"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "dog",
+                "frisbee",
+                "Hand",
+                "sports ball",
+                "Calf"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/bUCMSDMB7MU.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "Person",
+                "Person",
+                "frisbee",
+                "horse",
+                "dog"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "frisbee"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "frisbee"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "Person",
+                "frisbee",
+                "dog"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "Person",
+                
+                "traffic light"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "Person",
+                "Person",
+                "dog"
+            ],
+            [
+                "dog",
+                "Lawn"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "dog",
+                "Person"
+            ],
+            [
+                "dog",
+                "dog",
+                "Lawn",
+                "Lawn",
+                "Person"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                
+                "dog",
+                "sports ball",
+                "Person"
+            ],
+            [
+                "Person",
+                "Person",
+                "Lawn",
+                "Lawn",
+                "dog"
+            ],
+            [
+                "Person",
+                "Person",
+                "Lawn",
+                "Lawn",
+                "dog",
+                "frisbee",
+                "backpack"
+            ],
+            [
+                "Person",
+                "Person",
+                "Lawn",
+                "Lawn",
+                "frisbee",
+                "dog"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Grooming dog/vmUbGiOyUbU.mp4": {
+        "activity": "Grooming dog",
+        "masks": [
+            [
+                "scissor",
+                "Water",
+                "toothbrush"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "scissor"
+            ],
+            [
+                "backpack"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/uM3RiCL0g2U.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "hair_drier",
+                "Hand"
+            ],
+            [
+                "Water",
+                "Hand"
+            ],
+            [
+                "Calf",
+                "dog",
+                "cat"
+            ],
+            [
+                "dog",
+                "frisbee",
+                "cat"
+            ],
+            [
+                "frisbee",
+                "frisbee",
+                "dog",
+                "Water"
+            ],
+            [
+                "frisbee",
+                "Calf",
+                "dog"
+            ],
+            [
+                "Calf",
+                "dog",
+                "frisbee"
+            ],
+            [
+                "dog",
+                "Calf",
+                "Shower_handle"
+            ],
+            [
+                "Person",
+                "cat"
+            ],
+            [
+                "frisbee",
+                "dog"
+            ],
+            [
+                "Person",
+                "Water",
+                "dog",
+                "Cowboy Hat"
+            ],
+            [
+                "frisbee",
+                "cat"
+            ],
+            [
+                "cat"
+            ],
+            [
+                "Person",
+                "dog",
+                "Shower_handle"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/s_H9cTp2tT8.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "bench",
+                "backpack"
+            ],
+            [
+                "Person",
+                "horse",
+                "Polo stick",
+                "Calf",
+                "Cowboy Hat"
+            ],
+            [
+                "Person",
+                "suitcase",
+                "Calf",
+                "backpack",
+                "Cowboy Hat",
+                "Water"
+            ],
+            [
+                "Person",
+                "Cowboy Hat",
+                "horse",
+                "backpack"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/KRES3eBM2l4.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "Lawn"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog"
+            ],
+            [
+                "Lawn",
+                "frisbee",
+                "dog"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Walking the dog/GE2q5qDJ-xU.mp4": {
+        "activity": "Walking the dog",
+        "masks": [
+            [
+                "dog"
+            ],
+            [
+                "Calf",
+                "dog"
+            ],
+            [
+                "Calf"
+            ],
+            [
+                "backpack"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "Calf"
+            ],
+            [
+                "dog",
+                "Calf"
+            ],
+            [
+                "Calf",
+                "couch"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/SpEdr2o2TP0.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "Person",
+                "backpack",
+                "horse"
+            ],
+            [
+                "backpack",
+                "Person",
+                "horse",
+                "Cowboy Hat"
+            ],
+            [
+                "Person"
+            ],
+            [
+                "Cowboy Hat",
+                "Person"
+            ],
+            [
+                "Cowboy Hat",
+                "Hand"
+            ],
+            [
+                "Cowboy Hat",
+                "Cowboy Hat",
+                "Hand",
+                "Hand",
+                "horse",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Cowboy Hat",
+                "Hand",
+                "Calf",
+                "dog"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Calf",
+                "Camel",
+                "Horse bridle"
+            ],
+            [
+                "hair_drier"
+            ],
+            [
+                "horse",
+                "Cowboy Hat",
+                "Person",
+                "Riding Hat"
+            ],
+            [
+                "backpack"
+            ],
+            [
+                "Person",
+                "Cowboy Hat",
+                "horse",
+                "Riding Hat",
+                "Hand"
+            ],
+            [
+                "Person",
+                "Horse bridle",
+                "horse",
+                "Horse saddle",
+                "Riding Hat"
+            ],
+            [
+                "backpack",
+                "backpack",
+                "Person",
+                "Riding Hat"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/hW6aZXhKl9M.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "Riding Hat",
+                "horse"
+            ],
+            [
+                "Riding Hat",
+                "Person",
+                "horse",
+                "Horse bridle"
+            ],
+            [
+                "Cowboy Hat",
+                "Horse saddle",
+                "horse",
+                "backpack",
+                "Hand"
+            ],
+            [
+                "Person",
+                "backpack",
+                "Horse saddle",
+                "Lawn",
+                "Riding Hat"
+            ],
+            [
+                "Riding Hat",
+                "Lawn",
+                "Cowboy Hat"
+            ],
+            [
+                "Cowboy Hat"
+            ],
+            [
+                "Riding Hat",
+                "horse",
+                "Lawn",
+                "dog",
+                "Calf",
+                "Cowboy Hat"
+            ],
+            [
+                "horse",
+                "horse",
+                "backpack",
+                "Horse saddle"
+            ],
+            [
+                "Riding Hat",
+                "cow",
+                "Horse saddle",
+                "horse",
+                "Cowboy Hat"
+            ],
+            [
+                "Riding Hat",
+                "Riding Hat",
+                "Cowboy Hat",
+                "Cowboy Hat",
+                "horse",
+                "cow"
+            ],
+            [
+                "Riding Hat",
+                "Cowboy Hat"
+            ],
+            [
+                "Cowboy Hat",
+                "Riding Hat",
+                "backpack",
+                "Lawn"
+            ],
+            [
+                "Person",
+                "Lawn"
+            ],
+            [
+                "Person",
+                "Person",
+                "bench"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Walking the dog/AA1wvSZ4Mno.mp4": {
+        "activity": "Walking the dog",
+        "masks": [
+            [
+                "Lawn"
+            ],
+            [
+                "Water",
+                "Lawn"
+            ],
+            [
+                "Water"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/kdQfR6oqJ_M.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "car"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "backpack",
+                "Horse bridle",
+                "dog",
+                "car"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "backpack",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Cowboy Hat"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Cowboy Hat",
+                "backpack",
+                "sports ball"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Walking the dog/ogQozSI5V8U.mp4": {
+        "activity": "Walking the dog",
+        "masks": [
+            [
+                "Person",
+                "Person",
+                "dog"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Grooming dog/B0cb0B90Ubg.mp4": {
+        "activity": "Grooming dog",
+        "masks": [
+            [
+                "Lawn",
+                "Calf"
+            ],
+            [
+                "Lawn",
+                "Brush",
+                "Calf"
+            ],
+            [
+                "Brush",
+                "Lawn"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/vjMuhHo6wMY.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "dog"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog"
+            ],
+            [
+                "frisbee",
+                "Person",
+                "Cowboy Hat",
+                "Spear"
+            ],
+            [
+                "Person",
+                "frisbee",
+                "Riding Hat",
+                "Hand"
+            ],
+            [
+                "Person",
+                "Hand",
+                "backpack",
+                "frisbee"
+            ],
+            [
+                "Rope",
+                "frisbee"
+            ],
+            [
+                "Rope",
+                "dog",
+                "frisbee"
+            ],
+            [
+                "frisbee",
+                "frisbee",
+                "Person",
+                "dog"
+            ],
+            [
+                "frisbee",
+                "Cowboy Hat"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "Person"
+            ],
+            [
+                "Person",
+                "Person",
+                "frisbee"
+            ],
+            [
+                "Person",
+                "Person",
+                "frisbee",
+                "Cowboy Hat"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Grooming dog/NH2TVi42xDE.mp4": {
+        "activity": "Grooming dog",
+        "masks": [
+            [
+                "Hand"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "dog",
+                "dog"
+            ],
+            [
+                "couch"
+            ],
+            [
+                "couch",
+                "dog",
+                "Hand",
+                "Brush"
+            ],
+            [
+                "couch",
+                "Brush"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/gCDpUPvD3s4.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "horse",
+                "Polo stick"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Horse bridle"
+            ],
+            [
+                "horse",
+                "Riding Hat",
+                "Polo stick",
+                "Person",
+                "Horse bridle"
+            ],
+            [
+                "horse",
+                "Riding Hat",
+                "Polo stick"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/hCJTKVzkYFE.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "horse",
+                "horse",
+                "car",
+                "Person",
+                "Lawn"
+            ],
+            [
+                "horse",
+                "horse",
+                "Riding Hat",
+                "Horse saddle"
+            ],
+            [
+                "Person",
+                "Person"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Walking the dog/ZNVhz7ctTq0.mp4": {
+        "activity": "Walking the dog",
+        "masks": [
+            [
+                "dog"
+            ],
+            [
+                "dog",
+                "Person",
+                "Cowboy Hat"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/A4PdcfWqrN8.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "Lawn",
+                "frisbee",
+                "Polo stick",
+                "bench"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "Lawn",
+                "bench",
+                "frisbee",
+                "backpack"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "Lawn",
+                "Lawn",
+                "frisbee",
+                "bench"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "Lawn"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "frisbee",
+                "bench",
+                "Lawn",
+                "horse"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "Lawn",
+                "frisbee",
+                "backpack",
+                "bench"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "frisbee",
+                "Lawn",
+                "bench",
+                "backpack"
+            ],
+            [
+                "frisbee",
+                "frisbee",
+                "dog",
+                "dog",
+                "Person",
+                "Person",
+                "Lawn",
+                "Lawn",
+                "backpack",
+                "horse"
+            ],
+            [
+                "Person",
+                "Person",
+                "frisbee",
+                "frisbee",
+                "dog",
+                "dog",
+                "Lawn",
+                "Polo stick",
+                "Riding Hat"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "frisbee",
+                "Polo stick",
+                "backpack",
+                "bench"
+            ],
+            [
+                "Person",
+                "Person",
+                "backpack",
+                "dog",
+                "bench",
+                "frisbee",
+                "horse"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "Lawn",
+                "bench",
+                "frisbee",
+                "backpack"
+            ],
+            [
+                "Person",
+                "Person",
+                "frisbee",
+                "frisbee",
+                "dog",
+                "dog",
+                "Lawn",
+                "horse",
+                "bench"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "Polo stick",
+                "frisbee",
+                "Lawn"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Grooming dog/j2ESEJmy7aA.mp4": {
+        "activity": "Grooming dog",
+        "masks": [
+            [
+                "Dog Leash"
+            ],
+            [
+                "dog"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/1uiEkwykOxo.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "horse"
+            ],
+            [
+                "horse",
+                "Horse bridle"
+            ],
+            [
+                "horse",
+                "Horse bridle",
+                "Lawn",
+                "Cowboy Hat"
+            ],
+            [
+                "Polo stick",
+                "horse",
+                "Person",
+                "Riding Hat"
+            ],
+            [
+                "Horse bridle",
+                "Lawn",
+                "Cowboy Hat",
+                "horse",
+                "Polo stick",
+                "Riding Hat"
+            ],
+            [
+                "horse",
+                "couch",
+                "Riding Hat",
+                "Cowboy Hat"
+            ],
+            [
+                "Polo stick",
+                "Riding Hat"
+            ],
+            [
+                "Person",
+                "Cowboy Hat",
+                "Calf",
+                "Shower_handle",
+                "toothbrush"
+            ],
+            [
+                "horse",
+                "Riding Hat",
+                "Lawn",
+                "Polo stick"
+            ],
+            [
+                "Person",
+                "scissor",
+                "Cowboy Hat"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Grooming dog/XKu57UKSqPc (copia).mp4": {
+        "activity": "Grooming dog",
+        "masks": [
+            [
+                "Lawn",
+                "Lawn",
+                "Calf"
+            ],
+            [
+                "Water"
+            ],
+            [
+                "Water",
+                "Polo stick"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "hair_drier"
+            ],
+            [
+                "Shower_handle"
+            ],
+            [
+                "hair_drier",
+                "Water"
+            ],
+            [
+                "Shaver",
+                "Shower_handle"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/goXkohySkU8.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "Person",
+                "Person",
+                "dog",
+                "backpack"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/iN1DEIADG9o.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "Person",
+                "dog"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "Person",
+                "Person",
+                "frisbee",
+                "dog"
+            ],
+            [
+                "Person",
+                "Person",
+                "Lawn",
+                "Lawn",
+                "frisbee",
+                "dog"
+            ],
+            [
+                "Person",
+                "Person",
+                "Lawn",
+                "Lawn"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "Lawn",
+                "frisbee"
+            ],
+            [
+                "frisbee",
+                "frisbee",
+                "dog",
+                "Person",
+                "Lawn"
+            ],
+            [
+                "frisbee",
+                "dog",
+                "Person",
+                "Lawn",
+                "bench"
+            ],
+            [
+                "dog",
+                "Person",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person",
+                "sports ball",
+                "Lawn",
+                "bench"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person",
+                "Lawn"
+            ],
+            [
+                "Person",
+                "dog",
+                "frisbee"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/mEsW__Np9Xo.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "horse",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Person",
+                "Riding Hat",
+                "Horse bridle",
+                "Horse saddle"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Person"
+            ],
+            [
+                "horse",
+                "Person",
+                "Riding Hat"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "bench"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/UhB739uudDo.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "frisbee",
+                "Person"
+            ],
+            [
+                "frisbee",
+                "frisbee",
+                "Person",
+                "dog",
+                "cat",
+                "Lawn",
+                "car"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "frisbee",
+                "Person"
+            ],
+            [
+                "Lawn",
+                "Person",
+                "frisbee"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "Person",
+                "frisbee",
+                "dog"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "frisbee",
+                "frisbee",
+                "Person",
+                "dog"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "Person",
+                "dog",
+                "cat"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/p4cQt5On74M.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "Person",
+                "Person"
+            ],
+            [
+                "Person",
+                "Cowboy Hat"
+            ],
+            [
+                "Person",
+                "Riding Hat"
+            ],
+            [
+                "Riding Hat"
+            ],
+            [
+                "Person"
+            ],
+            [
+                "suitcase"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Walking the dog/gzuLIo5ZR9A.mp4": {
+        "activity": "Walking the dog",
+        "masks": [
+            [
+                "Calf"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "Calf"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "Rope",
+                "Bull",
+                "Calf"
+            ],
+            [
+                "Lawn",
+                "Lawn"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/Mm-bwu8Q2IU.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "frisbee",
+                "dog",
+                "backpack"
+            ],
+            [
+                "dog",
+                "Cowboy Hat"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "Person",
+                "Water"
+            ],
+            [
+                "Water",
+                "Cowboy Hat"
+            ],
+            [
+                "Water",
+                "Person"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/bH7ORYDcI7A.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "dog",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "couch",
+                "cat"
+            ],
+            [
+                "dog",
+                "dog",
+                "Lawn",
+                "Person"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "Person",
+                "sports ball"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "Person",
+                "Person",
+                "frisbee"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "Person",
+                "Person",
+                "frisbee",
+                "dog"
+            ],
+            [
+                "dog",
+                "dog",
+                "Lawn",
+                "Lawn",
+                "Person"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "Person",
+                "frisbee",
+                "backpack"
+            ],
+            [
+                "Person",
+                "dog",
+                "Lawn",
+                "frisbee"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "frisbee"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "frisbee",
+                "Person",
+                "dog",
+                "cat"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "Person",
+                "dog",
+                "frisbee"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/7phIVBx1BzQ.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "Lawn",
+                "dog",
+                "Hand"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "frisbee",
+                "dog",
+                "Calf",
+                "Person"
+            ],
+            [
+                "Lawn",
+                "Calf",
+                "dog",
+                "Spear"
+            ],
+            [
+                "dog",
+                "Calf",
+                "Shower_handle"
+            ],
+            [
+                "Calf",
+                "dog",
+                "Lawn",
+                "Cowboy Hat"
+            ],
+            [
+                "dog",
+                "frisbee",
+                "Rope",
+                "Lawn"
+            ],
+            [
+                "frisbee",
+                "dog",
+                "Lawn"
+            ],
+            [
+                "frisbee",
+                "dog",
+                "Calf",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "frisbee"
+            ],
+            [
+                "dog",
+                "Calf",
+                "frisbee"
+            ],
+            [
+                "dog",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "Calf",
+                "Lawn"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog"
+            ],
+            [
+                "dog",
+                "Lawn",
+                "Calf"
+            ],
+            [
+                "Lawn",
+                "dog",
+                "Calf"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/mWNTl9Bh7kI.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "Person",
+                "Polo stick"
+            ],
+            [
+                "Person",
+                "Person",
+                "Riding Hat",
+                "Hand",
+                "Polo stick"
+            ],
+            [
+                "sports ball",
+                "Person",
+                "Polo stick"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Walking the dog/DAPX3S1Nmqg.mp4": {
+        "activity": "Walking the dog",
+        "masks": [
+            [
+                "dog"
+            ],
+            [
+                "Person",
+                "dog"
+            ],
+            [
+                "hair_drier",
+                "dog"
+            ],
+            [
+                "dog",
+                "dog",
+                "hair_drier"
+            ],
+            [
+                "dog",
+                "dog"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "dog",
+                "dog"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/pKOwZrmQan4.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "dog",
+                "Lawn",
+                "Person"
+            ],
+            [
+                "Lawn",
+                "Person",
+                "dog"
+            ],
+            [
+                "Lawn",
+                "Person",
+                "dog",
+                "frisbee"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "Person",
+                "dog",
+                "frisbee"
+            ],
+            [
+                "frisbee",
+                "Person",
+                "backpack",
+                "dog"
+            ],
+            [
+                "Lawn",
+                "Person",
+                "dog",
+                "frisbee",
+                "traffic light"
+            ],
+            [
+                "Lawn",
+                "Person",
+                "dog",
+                "frisbee"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/hANXaoStVR0.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "Person"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/wRKFbuczjsw.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "dog"
+            ],
+            [
+                "dog",
+                "dog",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person"
+            ],
+            [
+                "dog",
+                "dog",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "Lawn",
+                "Person",
+                "Calf"
+            ],
+            [
+                "dog",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "dog",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "dog",
+                "Lawn",
+                "Lawn",
+                "Person"
+            ],
+            [
+                "dog",
+                "Lawn",
+                "Calf",
+                "Person"
+            ],
+            [
+                "Person",
+                "dog"
+            ]
+        ]
+    },
+    
+    "/home/giuseppe/Desktop/Vision/Todo/Camel ride/F559bkkKSp8.mp4": {
+        "activity": "Camel ride",
+        "masks": []
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Camel ride/xIld1Pt1QGs.mp4": {
+        "activity": "Camel ride",
+        "masks": [
+            [
+                "Bull"
+            ],
+            [
+                "backpack",
+                "Bull",
+                "Spear"
+            ],
+            [
+                "Hand"
+            ],
+            [
+                "Camel",
+                "Red fabric",
+                "Lawn"
+            ],
+            [
+                "Person",
+                "Person",
+                "backpack",
+                "backpack",
+                "Polo stick",
+                "suitcase",
+                "Camel"
+            ],
+            [
+                "Person",
+                "Person",
+                "Camel",
+                "backpack"
+            ],
+            [
+                "backpack",
+                "backpack",
+                "Person",
+                "Person",
+                "Polo stick"
+            ],
+            [
+                "Person",
+                "Person",
+                "backpack",
+                "Camel",
+                "Red fabric"
+            ],
+            [
+                "Person",
+                "Person",
+                "Red fabric",
+                "Polo stick",
+                "Camel"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Camel ride/rO9SwC42Goo.mp4": {
+        "activity": "Camel ride",
+        "masks": [
+            [
+                "Camel"
+            ],
+            [
+                "Camel",
+                "Camel",
+                "Person"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Camel ride/SHfFrzy_fKM.mp4": {
+        "activity": "Camel ride",
+        "masks": [
+            [
+                "backpack"
+            ],
+            [
+                "backpack",
+                "Polo stick"
+            ],
+            [
+                "Camel",
+                "Polo stick",
+                "Shower_handle",
+                "Cowboy Hat",
+                "horse",
+                "Person"
+            ],
+            [
+                "Person",
+                "Person",
+                "Camel",
+                "horse",
+                "Cowboy Hat",
+                "bench",
+                "Polo stick"
+            ],
+            [
+                "bench",
+                "Person"
+            ],
+            [
+                "Person",
+                "suitcase"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Camel ride/iUMDlxU14bM.mp4": {
+        "activity": "Camel ride",
+        "masks": [
+            [
+                "Water"
+            ],
+            [
+                "Person",
+                "suitcase"
+            ],
+            [
+                "Camel",
+                "Person"
+            ],
+            [
+                "traffic light"
+            ],
+            [
+                "traffic light"
+            ],
+            [
+                "Water"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "Camel"
+            ],
+            [
+                "Person",
+                "traffic light",
+                "Calf"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Camel ride/JZN0L8pp5hY.mp4": {
+        "activity": "Camel ride",
+        "masks": []
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Camel ride/m7wfcL6YSMY.mp4": {
+        "activity": "Camel ride",
+        "masks": [
+            [
+                "Person"
+            ],
+            [
+                "Person",
+                "Person",
+                "Polo stick",
+                "Cowboy Hat"
+            ],
+            [
+                "Person",
+                "Cowboy Hat"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Camel ride/PG3f3Wkkptk.mp4": {
+        "activity": "Camel ride",
+        "masks": [
+            [
+                "Camel",
+                "Rope"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Camel ride/altXks0a0qY.mp4": {
+        "activity": "Camel ride",
+        "masks": [
+            [
+                "suitcase",
+                "Camel",
+                "cow",
+                "horse"
+            ],
+            [
+                "Camel"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Camel ride/i49blayQ93Q.mp4": {
+        "activity": "Camel ride",
+        "masks": [
+            [
+                "Person",
+                "horse"
+            ],
+            [
+                "Person",
+                "Person",
+                "horse",
+                "horse",
+                "backpack"
+            ],
+            [
+                "Person",
+                "Person",
+                "backpack",
+                "Calf",
+                "horse",
+                "Cowboy Hat",
+                "dog"
+            ],
+            [
+                "Person",
+                "Person",
+                "Cowboy Hat",
+                "backpack",
+                "dog",
+                "horse"
+            ],
+            [
+                "Camel",
+                "Cowboy Hat",
+                "dog",
+                "Person",
+                "backpack",
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Person",
+                "Calf",
+                "Cowboy Hat",
+                "Camel",
+                "backpack"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "backpack",
+                "Cowboy Hat"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Person",
+                "Cowboy Hat",
+                "dog"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "backpack"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Polo stick",
+                "Camel"
+            ],
+            [
+                "horse",
+                "horse",
+                "bench",
+                "Polo stick"
+            ],
+            [
+                "horse",
+                "horse",
+                "Calf",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse"
+            ],
+            [
+                "horse",
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Camel"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Camel ride/V2QIntSKqhA.mp4": {
+        "activity": "Camel ride",
+        "masks": [
+            [
+                "Person",
+                "Rope",
+                "Camel"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/q_DajTs5gIA.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "scissor"
+            ],
+            [
+                "scissor",
+                "scissor"
+            ],
+            [
+                "scissor"
+            ],
+            [
+                "scissor"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/YU0DjX7wvRA.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "cat"
+            ],
+            [
+                "cat",
+                "cat"
+            ],
+            [
+                "cat"
+            ],
+            [
+                "cat",
+                "cat",
+                "scissor"
+            ],
+            [
+                "cat",
+                "Hand"
+            ],
+            [
+                "cat"
+            ],
+            [
+                "cat",
+                "cat"
+            ],
+            [
+                "cat",
+                "cat"
+            ],
+            [
+                "cat",
+                "cat"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/xPDjkE7llg4.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "scissor",
+                "scissor",
+                "Hand"
+            ],
+            [
+                "cat",
+                "scissor"
+            ],
+            [
+                "Hand",
+                "dog",
+                "cat"
+            ],
+            [
+                "dog",
+                "Hand",
+                "Water"
+            ],
+            [
+                "cat",
+                "dog",
+                "Shower_handle"
+            ],
+            [
+                "scissor"
+            ],
+            [
+                
+                "cat"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/ZIHD-3iWCrE.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "scissor",
+                "scissor",
+                "Hand"
+            ],
+            [
+                "scissor"
+            ],
+            [
+                "scissor",
+                "scissor"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/U36rsW_WhUA.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "cat"
+            ],
+            [
+                "scissor"
+            ],
+            [
+                "scissor"
+            ],
+            [
+                "scissor",
+                "cat"
+            ],
+            [
+                "scissor",
+                "cat"
+            ],
+            [
+                "scissor"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/M1-G6KEhY-M.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "Person"
+            ],
+            [
+                "dog"
+            ],
+            [
+                "Person",
+                "dog"
+            ],
+            [
+                "Person",
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Horse bridle",
+                "Horse saddle"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/MlGh0geYhSg.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "bench",
+                "dog",
+                "Calf"
+            ],
+            [
+                "Cowboy Hat",
+                "horse"
+            ],
+            [
+                "horse",
+                "Horse bridle",
+                "dog",
+                "Rope",
+                "Cowboy Hat",
+                "Calf"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/-Lxv663IEaI.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "horse",
+                "Person"
+            ],
+            [
+                "Lawn",
+                "Water",
+                "Person"
+            ],
+            [
+                "backpack",
+                "Person",
+                "Riding Hat",
+                "Calf",
+                "bench"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Person",
+                "backpack",
+                "Horse bridle",
+                "Polo stick",
+                "Riding Hat"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Person",
+                "backpack"
+            ],
+            [
+                "Person",
+                "Person",
+                "horse",
+                "horse",
+                "backpack",
+                "Riding Hat",
+                "cow"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/GI8tylrKKlA.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "couch"
+            ],
+            [
+                "couch",
+                "couch",
+                "Hand",
+                "Cowboy Hat"
+            ],
+            [
+                "scissor"
+            ],
+            [
+                "scissor"
+            ],
+            [
+                "scissor",
+                "couch"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/R2izNBHhctM.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "scissor",
+                "dog"
+            ],
+            [
+                "cat",
+                "cat",
+                "dog",
+                "scissor"
+            ],
+            [
+                "cat",
+                "dog"
+            ],
+            [
+                "scissor",
+                "cat",
+                "Hand"
+            ],
+            [
+                "scissor",
+                "cat"
+            ],
+            [
+                "dog",
+                "cat"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/qaB0igbuKuQ.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "scissor",
+                "scissor",
+                "Shower_handle"
+            ],
+            [
+                "cat",
+                "hair_drier"
+            ],
+            [
+                "Shower_handle"
+            ],
+            [
+                
+                "Hand"
+            ],
+            [
+                "Hand"
+            ],
+            [
+                "Hand",
+                "Shower_handle"
+            ],
+            [
+                "Shower_handle"
+            ],
+            [
+                "Shower_handle"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/5jaIcPomOuM.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "Person"
+            ],
+            [
+                "cat",
+                "Person",
+                "scissor"
+            ],
+            [
+                "scissor"
+            ],
+            [
+                "Person",
+                "cat"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/Zn84iOuIkDs.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "dog",
+                "Hand"
+            ],
+            [
+                "scissor",
+                "Hand"
+            ],
+            [
+                "Shower_handle",
+                "Water"
+            ],
+            [
+                "Water"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/p2C4MeV02GU.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "cat"
+            ],
+            [
+                "cat"
+            ],
+            [
+                "cat"
+            ],
+            [
+                "cat"
+            ],
+            [
+                "Hand"
+            ],
+            [
+                "scissor"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/tfPm9xAZ5z0.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "cat"
+            ],
+            [
+                "cat",
+                "dog"
+            ],
+            [
+                "scissor",
+                "Shower_handle"
+            ],
+            [
+                "Shower_handle",
+                "scissor"
+            ],
+            [
+                "scissor"
+            ],
+            [
+                "scissor",
+                "Water"
+            ],
+            [
+                "scissor"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/5c1zqvr3yKM.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "scissor"
+            ],
+            [
+                "scissor"
+            ],
+            [
+                "scissor"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/gtzg66XV6E0.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "cat",
+                "Hand",
+                "dog"
+            ],
+            [
+                "dog",
+                "scissor",
+                "cat"
+            ],
+            [
+                "cat",
+                "scissor"
+            ],
+            [
+                "cat",
+                "scissor"
+            ],
+            [
+                "cat",
+                "Person",
+                "scissor"
+            ],
+            [
+                "Hand"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/En9FemmDusk.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "dog"
+            ],
+            [
+                "dog",
+                "couch"
+            ],
+            [
+                "dog",
+                "Water",
+                "cat"
+            ],
+            [
+                "cat"
+            ],
+            [
+                "Water",
+                "hair_drier"
+            ],
+            [
+                "Shower_handle",
+                "Water"
+            ],
+            [
+                "hair_drier",
+                "nail_clipper"
+            ],
+            [
+                "nail_clipper",
+                "nail_clipper"
+            ],
+            [
+                
+                "nail_clipper",
+                "scissor"
+            ],
+            [
+                "scissor"
+            ],
+            [
+                "Water"
+            ]
+        ]
+    },
+    "/home/giulio/Scrivania/bp/Bathing dog/WHchTZ61VT4.mp4": {
+        "masks": [
+            [
+                "Person"
+            ],
+            [
+                "Person",
+                "Person"
+            ],
+            [
+                "Person",
+                "Person"
+            ],
+            [
+                "Cowboy Hat",
+                "traffic light"
+            ],
+            [
+                "Person",
+                "Person",
+                "Water"
+            ],
+            [
+                "Person",
+                "Water"
+            ],
+            [
+                "dog",
+                "dog",
+                "hair_drier"
+            ],
+            [
+                "sports ball"
+            ]
+        ],
+        "activity": "Bathing dog"
+    },
+    "/home/giulio/Scrivania/bp/Calf roping/oJCB2Zglcq4.mp4": {
+        "masks": [
+            [
+                "dog",
+                "horse",
+                "Cowboy Hat"
+            ],
+            [
+                "horse",
+                "Rope",
+                "Camel",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Rope",
+                "Riding Hat",
+                "Person"
+            ]
+        ],
+        "activity": "Calf roping"
+    },
+    "/home/giulio/Scrivania/bp/Calf roping/dKiy-7TZqeI.mp4": {
+        "masks": [
+            [
+                "horse",
+                "Cowboy Hat",
+                "Rope",
+                "Person",
+                "dog"
+            ]
+        ],
+        "activity": "Calf roping"
+    },
+    "/home/giulio/Scrivania/bp/Bathing dog/1JHqxhajh60.mp4": {
+        "masks": [
+            [
+                "Shower_handle",
+                "Calf"
+            ],
+            [
+                "Shower_handle"
+            ],
+            [
+                "Shower_handle",
+                "dog"
+            ],
+            [
+                "Shower_handle"
+            ],
+            [
+                "nail_clipper",
+                "Calf"
+            ],
+            [
+                "Shower_handle",
+                "Calf"
+            ],
+            [
+                "Water"
+            ]
+        ],
+        "activity": "Bathing dog"
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/JMrfe-UVA0Y.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "Rope",
+                "Person"
+            ],
+            [
+                
+                "dog",
+                "couch",
+                "Person",
+                "Hand"
+            ],
+            [
+                
+                
+                "dog"
+            ],
+            [
+                "Hand"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Clipping cat claws/b1uGF3c3Vz4.mp4": {
+        "activity": "Clipping cat claws",
+        "masks": [
+            [
+                "dog"
+            ],
+            [
+                "Hand"
+            ],
+            [
+                "backpack"
+            ],
+            [
+                "backpack",
+                "backpack",
+                "cat"
+            ],
+            [
+                "backpack",
+                "nail_clipper",
+                "Hand",
+                "cat"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Grooming horse/bXp_reTHyHY.mp4": {
+        "activity": "Grooming horse",
+        "masks": [
+            [
+                "Calf"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Grooming horse/Gdf7ZWhh9Nw.mp4": {
+        "activity": "Grooming horse",
+        "masks": [
+            [
+                "Shaver"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "Shaver",
+                "Person"
+            ],
+            [
+                "Water"
+            ],
+            [
+                "Shaver",
+                "horse"
+            ],
+            [
+                "horse",
+                "Hand",
+                "Shower_handle"
+            ],
+            [
+                "Shaver",
+                "Brush",
+                "horse"
+            ],
+            [
+                "horse"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Grooming horse/vBOejU7dBzY.mp4": {
+        "activity": "Grooming horse",
+        "masks": [
+            [
+                "Hand"
+            ],
+            [
+                "Hand",
+                "Shower_handle",
+                "horse"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "Water",
+                "couch",
+                "Hand"
+            ],
+            [
+                "Hand",
+                "Person",
+                "horse"
+            ],
+            [
+                "Person",
+                "Person"
+            ],
+            [
+                "Person"
+            ],
+            [
+                "Person"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Grooming horse/1tEJRzqqalM.mp4": {
+        "activity": "Grooming horse",
+        "masks": [
+            [
+                "horse",
+                "horse"
+            ],
+            [
+                "horse",
+                "horse"
+            ],
+            [
+                "horse",
+                "Shower_handle"
+            ],
+            [
+                "horse",
+                "Shower_handle"
+            ],
+            [
+                "horse",
+                "Water"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Riding Hat",
+                "Water",
+                "Shower_handle"
+            ],
+            [
+                "horse",
+                "horse",
+                "Water",
+                "Calf"
+            ],
+            [
+                "horse",
+                "horse",
+                "Water",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Water"
+            ],
+            [
+                "horse",
+                "horse"
+            ],
+            [
+                "horse",
+                "Rope"
+            ],
+            [
+                "horse",
+                "Water",
+                "Rope"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "horse",
+                "horse"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Grooming horse/ND9mMyNjm5M.mp4": {
+        "activity": "Grooming horse",
+        "masks": [
+            [
+                "horse",
+                "Hand",
+                "Bull"
+            ],
+            [
+                "Bull"
+            ],
+            [
+                "Shower_handle"
+            ],
+            [
+                "Bull"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Grooming horse/55IErOrgQOA.mp4": {
+        "activity": "Grooming horse",
+        "masks": [
+            [
+                "Shower_handle"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Grooming horse/xtmxgih0yIk.mp4": {
+        "activity": "Grooming horse",
+        "masks": [
+            [
+                "horse"
+            ],
+            [
+                "horse",
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Rope"
+            ],
+            [
+                "horse",
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Rope"
+            ],
+            [
+                "horse",
+                "horse",
+                "Rope",
+                "Rope"
+            ],
+            [
+                "horse",
+                "horse",
+                "Rope"
+            ],
+            [
+                "horse",
+                "horse",
+                "Rope"
+            ],
+            [
+                "horse",
+                "horse",
+                "Rope"
+            ],
+            [
+                "horse",
+                "horse",
+                "Rope"
+            ],
+            [
+                "horse",
+                "horse",
+                "Rope",
+                "Horse saddle"
+            ],
+            [
+                "horse",
+                "horse",
+                "Rope"
+            ],
+            [
+                "horse",
+                "horse",
+                "Rope"
+            ],
+            [
+                "horse",
+                "horse",
+                "Rope",
+                "Rope"
+            ],
+            [
+                "horse",
+                "horse",
+                "Rope",
+                "Rope"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Grooming horse/ISJodiRZ_uo.mp4": {
+        "activity": "Grooming horse",
+        "masks": [
+            [
+                "Cowboy Hat",
+                "Riding Hat"
+            ],
+            [
+                "Cowboy Hat",
+                "Person",
+                "Riding Hat"
+            ],
+            [
+                "Cowboy Hat",
+                "Riding Hat"
+            ],
+            [
+                "Riding Hat"
+            ],
+            [
+                "horse",
+                "Person",
+                "Red fabric"
+            ],
+            [
+                "horse",
+                "backpack"
+            ],
+            [
+                "Person",
+                "Cowboy Hat",
+                "horse",
+                "Riding Hat",
+                "Red fabric"
+            ],
+            [
+                "horse",
+                "horse",
+                "Cowboy Hat"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Grooming horse/AQ2-EcbX4dE.mp4": {
+        "activity": "Grooming horse",
+        "masks": [
+            [
+                "Shower_handle",
+                "Person",
+                "Bull"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Grooming horse/5YsdlM3Stjo.mp4": {
+        "activity": "Grooming horse",
+        "masks": [
+            [
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse"
+            ],
+            [
+                "horse",
+                "Calf"
+            ],
+            [
+                "horse",
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Cowboy Hat",
+                "cow"
+            ],
+            [
+                "horse",
+                "horse",
+                "Cowboy Hat",
+                "Cowboy Hat",
+                "cow",
+                "Rope"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Horse saddle",
+                "Rope"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "backpack",
+                "Calf"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle"
+            ],
+            [
+                "horse",
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Grooming horse/0PbmXOVIwGc.mp4": {
+        "activity": "Grooming horse",
+        "masks": [
+            [
+                "Shower_handle",
+                "scissor"
+            ],
+            [
+                "Red fabric"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Grooming horse/Q1mh4F0L8Ec.mp4": {
+        "activity": "Grooming horse",
+        "masks": [
+            [
+                "horse",
+                "horse",
+                "cow",
+                "bench"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "cow"
+            ],
+            [
+                "horse",
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person"
+            ],
+            [
+                "horse",
+                "Person"
+            ],
+            [
+                "horse",
+                "Person"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "Person"
+            ],
+            [
+                "Person",
+                "Person",
+                "horse"
+            ],
+            [
+                "Person",
+                "Person",
+                "Cowboy Hat"
+            ],
+            [
+                "Person",
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Grooming horse/qXNYHbnGvto.mp4": {
+        "activity": "Grooming horse",
+        "masks": [
+            [
+                "Hand"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "nail_clipper",
+                "Bull"
+            ],
+            [
+                "Rope",
+                "Person"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "Hand"
+            ],
+            [
+                "Person",
+                "Shower_handle"
+            ],
+            [
+                "Hand"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Grooming horse/NcTZ3wgdNOQ.mp4": {
+        "activity": "Grooming horse",
+        "masks": [
+            [
+                "hair_drier",
+                "hair_drier",
+                "Calf"
+            ],
+            [
+                "horse",
+                "horse",
+                "backpack"
+            ],
+            [
+                "horse",
+                "backpack"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "horse",
+                "Calf"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "Person",
+                "Person"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/6NqS3vYvf6Q.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "Horse saddle",
+                "Person",
+                "horse"
+            ],
+            [
+                "Horse saddle",
+                "Person"
+            ],
+            [
+                "Riding Hat",
+                "horse",
+                "Horse saddle"
+            ],
+            [
+                "Riding Hat",
+                "horse",
+                "Horse saddle",
+                "Water"
+            ],
+            [
+                "Riding Hat"
+            ],
+            [
+                "Hand",
+                "backpack",
+                "horse"
+            ],
+            [
+                "Horse bridle",
+                "Horse bridle",
+                "horse",
+                "Riding Hat",
+                "Horse saddle"
+            ],
+            [
+                "Horse bridle",
+                "Horse bridle",
+                "horse",
+                "horse",
+                "dog",
+                "Horse saddle"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/PV8QJ4QJgtY.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "Hand",
+                "Horse bridle",
+                "Person"
+            ],
+            [
+                "Horse bridle",
+                "Horse bridle",
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Horse saddle",
+                "Person",
+                "Person",
+                "Riding Hat",
+                "Polo stick"
+            ],
+            [
+                "Horse bridle",
+                "Horse bridle",
+                "Horse saddle",
+                "Horse saddle",
+                "horse",
+                "horse",
+                "Person",
+                "Person"
+            ],
+            [
+                "Horse saddle",
+                "Horse saddle",
+                "Horse bridle",
+                "Horse bridle",
+                "horse",
+                "horse",
+                "Riding Hat",
+                "Person",
+                "Hand"
+            ],
+            [
+                "Horse bridle",
+                "Horse bridle",
+                "Horse saddle",
+                "Horse saddle",
+                "horse",
+                "horse",
+                "Hand",
+                "Hand",
+                "Riding Hat"
+            ],
+            [
+                "Horse saddle",
+                "Horse saddle",
+                "Horse bridle",
+                "Horse bridle",
+                "horse",
+                "horse"
+            ],
+            [
+                "Horse bridle",
+                "Horse bridle",
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Horse saddle",
+                "Riding Hat",
+                "Person"
+            ],
+            [
+                "Horse bridle",
+                "Horse bridle",
+                "horse",
+                "horse",
+                "Person",
+                "Horse saddle",
+                "Riding Hat",
+                "Polo stick"
+            ],
+            [
+                "horse",
+                "Person",
+                "Horse bridle",
+                "Horse saddle",
+                "Riding Hat"
+            ],
+            [
+                "Horse bridle",
+                "horse",
+                "Horse saddle",
+                "Riding Hat"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Horse saddle"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Polo stick",
+                "Horse saddle"
+            ],
+            [
+                "Horse bridle",
+                "Horse bridle",
+                "horse",
+                "Horse saddle"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Horse saddle",
+                "Riding Hat"
+            ],
+            [
+                "Horse bridle",
+                "horse",
+                "Horse saddle"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/4kriQ6h6ymI.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "Cowboy Hat"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "bench"
+            ],
+            [
+                "Person"
+            ],
+            [
+                "Person",
+                "horse",
+                "Spear"
+            ],
+            [
+                "horse",
+                "horse",
+                "Riding Hat",
+                "Spear",
+                "Horse bridle"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "Person",
+                "scissor",
+                "backpack"
+            ],
+            [
+                "Person"
+            ],
+            [
+                "Person",
+                "dog",
+                "horse"
+            ],
+            [
+                "horse"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/eAOBdYKju70.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "horse",
+                "Horse saddle",
+                "Horse bridle"
+            ],
+            [
+                "Cowboy Hat",
+                "Cowboy Hat",
+                "horse",
+                "Horse bridle"
+            ],
+            [
+                "Cowboy Hat",
+                "Rope",
+                "horse",
+                "Horse bridle",
+                "Polo stick",
+                "Calf"
+            ],
+            [
+                "horse",
+                "horse",
+                "Cowboy Hat",
+                "scissor",
+                "cow"
+            ],
+            [
+                "Cowboy Hat",
+                "Person",
+                "horse"
+            ],
+            [
+                "Cowboy Hat",
+                "Cowboy Hat",
+                "Person",
+                "horse"
+            ],
+            [
+                "Cowboy Hat",
+                "Cowboy Hat",
+                "horse",
+                "horse",
+                "Calf",
+                "Horse saddle",
+                "Horse bridle"
+            ],
+            [
+                "Cowboy Hat",
+                "horse"
+            ],
+            [
+                "Person",
+                "Cowboy Hat"
+            ],
+            [
+                "horse",
+                "backpack"
+            ],
+            [
+                "dog",
+                "Cowboy Hat",
+                "Brush",
+                "Shower_handle",
+                "Bull"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/hwGvU9Csz98.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "suitcase",
+                "backpack"
+            ],
+            [
+                "horse",
+                "Person"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/aMQVH3dF0QM.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "Person",
+                "horse",
+                "backpack",
+                "Horse saddle"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Person",
+                "Cowboy Hat",
+                "Horse saddle",
+                "backpack"
+            ],
+            [
+                "horse",
+                "horse",
+                "Cowboy Hat",
+                "Water",
+                "backpack",
+                "Horse saddle",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "backpack",
+                "cow"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person"
+            ],
+            [
+                "horse",
+                "Person",
+                "dog",
+                "Water"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Horse bridle"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person"
+            ],
+            [
+                "horse",
+                "Person",
+                "cow"
+            ],
+            [
+                "backpack"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/-KbDXeEoQ1E.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "Person",
+                "bench",
+                "horse"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "bench",
+                "Horse bridle"
+            ],
+            [
+                "Riding Hat",
+                "horse",
+                "Person",
+                "suitcase"
+            ],
+            [
+                "bench",
+                "horse",
+                "Horse saddle",
+                "backpack"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Cowboy Hat",
+                "Horse bridle",
+                "Riding Hat"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Horse saddle",
+                "Riding Hat",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Horse saddle",
+                "backpack",
+                "bench"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "bench",
+                "Horse bridle",
+                "Horse saddle"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Horse saddle",
+                "Horse bridle"
+            ],
+            [
+                "horse",
+                "bench",
+                "Horse bridle"
+            ],
+            [
+                "horse",
+                "horse",
+                "backpack",
+                "Horse saddle"
+            ],
+            [
+                "horse"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/lHsPZ49cpG8.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "Person",
+                "horse",
+                "Water"
+            ],
+            [
+                "Person",
+                "Person",
+                "horse",
+                "backpack"
+            ],
+            [
+                "horse",
+                "Person",
+                "car",
+                "Polo stick"
+            ],
+            [
+                "Person",
+                "Polo stick"
+            ],
+            [
+                "Person",
+                "horse",
+                "Polo stick",
+                "Cowboy Hat"
+            ],
+            [
+                "Person",
+                "Person",
+                "horse",
+                "horse"
+            ],
+            [
+                "Person",
+                "Polo stick",
+                "horse",
+                "backpack",
+                "car"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Grooming dog/Ieb7EkMxpJk.mp4": {
+        "activity": "Grooming dog",
+        "masks": [
+            [
+                "dog",
+                "Calf",
+                "hair_drier",
+                "Lawn"
+            ],
+            [
+                "dog",
+                "scissor"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/KoeytdNfQ_M.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "Lawn",
+                "dog",
+                "Person",
+                "Rope",
+                "frisbee"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "Person"
+            ],
+            [
+                "dog",
+                "Lawn",
+                "Person",
+                "cat"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "frisbee"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/sHxzQu_4edY.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Horse bridle",
+                "Horse saddle",
+                "Person",
+                "Riding Hat",
+                "backpack"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Horse saddle",
+                "Riding Hat",
+                "backpack"
+            ],
+            [
+                "horse",
+                "horse",
+                "Water",
+                "Horse bridle",
+                "hair_drier",
+                "Riding Hat"
+            ],
+            [
+                "horse",
+                "horse",
+                "Riding Hat"
+            ],
+            [
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Person",
+                "Horse saddle",
+                "Water"
+            ],
+            [
+                "horse",
+                "Person",
+                "Horse bridle",
+                "Horse saddle"
+            ],
+            [
+                "Horse saddle",
+                "Horse saddle",
+                "horse",
+                "Horse bridle",
+                "Person"
+            ],
+            [
+                "Horse saddle",
+                "Lawn",
+                "Horse bridle",
+                "horse",
+                "suitcase"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Horse saddle",
+                "Riding Hat",
+                "Water",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Horse bridle"
+            ],
+            [
+                "horse",
+                "horse",
+                "Cowboy Hat",
+                "Horse bridle",
+                "Person"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/W50sQxSWDwM.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "horse",
+                "Cowboy Hat"
+            ],
+            [
+                "Cowboy Hat",
+                "Water"
+            ],
+            [
+                "backpack"
+            ],
+            [
+                "Cowboy Hat"
+            ],
+            [
+                "Person",
+                "Cowboy Hat"
+            ],
+            [
+                "horse",
+                "Horse bridle",
+                "bench",
+                "Person",
+                "Horse saddle",
+                "Cowboy Hat"
+            ],
+            [
+                "backpack",
+                "horse",
+                "Cowboy Hat"
+            ],
+            [
+                "Cowboy Hat",
+                "Person",
+                "horse"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/vrWcBuRPDBw.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "horse",
+                "Person",
+                "backpack"
+            ],
+            [
+                "Person",
+                "Person",
+                "horse",
+                "bench",
+                "backpack"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "backpack"
+            ],
+            [
+                "horse",
+                "horse",
+                "Person",
+                "Person",
+                "backpack",
+                "Horse bridle"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Person",
+                "backpack",
+                "Horse bridle"
+            ],
+            [
+                "Person",
+                "Person",
+                "Water",
+                "Cowboy Hat",
+                "horse",
+                "traffic light"
+            ],
+            [
+                "cow",
+                "cow",
+                "horse",
+                "horse",
+                "Person",
+                "Person",
+                "backpack",
+                "Lawn"
+            ],
+            [
+                "Person",
+                "horse",
+                "Horse saddle",
+                "backpack"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/SoWow2cxfac.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "Person"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog"
+            ],
+            [
+                "Person"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog"
+            ],
+            [
+                "Person"
+            ],
+            [
+                "Person",
+                "Person",
+                "backpack",
+                "Lawn"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "Lawn"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog"
+            ],
+            [
+                "Person",
+                "dog"
+            ],
+            [
+                "Person",
+                "dog"
+            ],
+            [
+                "Person",
+                "dog"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Playing polo/iXLXRHHFp60.mp4": {
+        "activity": "Playing polo",
+        "masks": [
+            [
+                "horse"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Horse bridle",
+                "cow"
+            ],
+            [
+                "horse",
+                "horse",
+                "Riding Hat",
+                "Polo stick",
+                "Cowboy Hat",
+                "Rope"
+            ],
+            [
+                "horse",
+                "horse",
+                "Polo stick",
+                "Horse bridle",
+                "Cowboy Hat"
+            ],
+            [
+                "Polo stick",
+                "Polo stick",
+                "Person",
+                "horse",
+                "backpack",
+                "Riding Hat",
+                "Horse bridle"
+            ],
+            [
+                "horse",
+                "horse",
+                "Polo stick",
+                "Camel",
+                "Cowboy Hat"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Horse bridle",
+                "Cowboy Hat"
+            ],
+            [
+                "Polo stick",
+                "horse",
+                "Horse bridle",
+                "Horse saddle"
+            ],
+            [
+                "horse",
+                "horse",
+                "sports ball",
+                "Horse bridle",
+                "Riding Hat",
+                "Polo stick"
+            ],
+            [
+                "sports ball",
+                "Riding Hat",
+                "Polo stick",
+                "Horse bridle",
+                "horse"
+            ],
+            [
+                "Riding Hat",
+                "Polo stick",
+                "horse",
+                "Cowboy Hat"
+            ],
+            [
+                "horse",
+                "sports ball",
+                "Person",
+                "Camel"
+            ]
+        ]
+    },
+    "/home/ant_maurizio/create_dat/Disc dog/1XtjXqqPvyQ.mp4": {
+        "activity": "Disc dog",
+        "masks": [
+            [
+                "Lawn"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "Person"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "Person",
+                "horse"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "horse",
+                "Person",
+                "dog",
+                "Polo stick"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog",
+                "sports ball"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "Person",
+                "dog",
+                "Calf"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "dog"
+            ],
+            [
+                "Lawn",
+                "Lawn",
+                "frisbee",
+                "dog"
+            ]
+        ]
+    },
+    "/home/giuseppe/Desktop/Vision/Todo/Horseback riding/0z7qHOca3D4.mp4": {
+        "activity": "Horseback riding",
+        "masks": [
+            [
+                "horse",
+                "horse",
+                "Dog Leash",
+                "dog"
+            ],
+            [
+                "horse",
+                "horse",
+                "Bull",
+                "Horse saddle",
+                "Person",
+                "Shower_handle"
+            ],
+            [
+                "horse",
+                "Calf",
+                "Horse bridle",
+                "Horse saddle"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Horse saddle"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse saddle",
+                "Horse bridle",
+                "Water",
+                "Cowboy Hat",
+                "Camel"
+            ],
+            [
+                "horse",
+                "horse",
+                "Horse bridle",
+                "Camel",
+                "Horse saddle"
+            ],
+            [
+                "horse"
+            ]
+        ]
+    }
+    ,
+    "/home/ant_maurizio/create_dat/Walking the dog/TqO-bmGQGiY.mp4": {
+        "activity": "Walking the dog",
+        "masks": [
+            [
+                "dog"
+            ],
+            [
+                "dog",
+                "dog",
+                "Person",
+                "horse",
+                "backpack"
+            ],
+            [
+                "Person",
+                "Person",
+                "horse",
+                "dog",
+                "suitcase",
+                "Dog Leash",
+                "handbag"
+            ],
+            [
+                "dog",
+                "Person",
+                "Dog Leash",
+                "Brush"
+            ],
+            [
+                "Person",
+                "Person",
+                
+                "backpack",
+                "dog",
+                "bench",
+                "handbag"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "horse"
+            ],
+            [
+                "Person",
+                "Person",
+                "dog",
+                "dog",
+                "backpack",
+                "suitcase",
+                "horse",
+                "handbag"
+            ],
+            [
+                "Person",
+                "horse",
+                "suitcase",
+                "dog"
+            ],
+            [
+                "dog",
+                "Person",
+                "horse",
+                "Water",
+                "cat"
+            ]
+        ]
+    }
+}
